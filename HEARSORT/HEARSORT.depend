@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615877878 source:c:\users\kevin\documents\epn\algoritmos y estructura\heap\hearsort\main.cpp
+	<iostream>
+	"ordenado_HeapSort.h"
+
+1615877503 c:\users\kevin\documents\epn\algoritmos y estructura\heap\hearsort\ordenado_heapsort.h
+
